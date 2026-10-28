@@ -15,7 +15,7 @@ Cyberspace.miyoo is an independent client, not made by Cyberspace, so please rep
 
 ## Install
 
-Get it from [Mixtape](https://github.com/snyderman3000/mixtape) on the device (APPS tab), or download the zip from [Releases](https://github.com/snyderman3000/cyberspace.miyoo/releases), copy its `App` folder to the root of your SD card, and open **Apps → Cyberspace.miyoo**. You need a Cyberspace account with a verified email.
+Get it from [Mixtape](https://github.com/snyderman3000/mixtape) on the device (APPS tab), or download the zip from [Releases](https://github.com/snyderman3000/Cyberspace.miyoo/releases), copy its `App` folder to the root of your SD card, and open **Apps → Cyberspace.miyoo**. You need a Cyberspace account with a verified email.
 
 Install steps, controls and file locations are in [`package/Cyberspace.miyoo/README.txt`](package/Cyberspace.miyoo/README.txt).
 

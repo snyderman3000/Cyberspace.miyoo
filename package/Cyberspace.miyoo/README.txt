@@ -12,7 +12,7 @@ website: cyber (green), c64 and vt320 (amber).
 
 Cyberspace.miyoo is an independent client, released with the blessing of
 Cyberspace's developer. It isn't made by Cyberspace, so report problems to
-github.com/snyderman3000/cyberspace.miyoo, not to them. It uses the public
+github.com/snyderman3000/Cyberspace.miyoo, not to them. It uses the public
 API under its terms: one person driving it by hand - no bots, no scraping.
 
 COMING FROM DIALUP?  Install this, open it once and you're still logged in:
