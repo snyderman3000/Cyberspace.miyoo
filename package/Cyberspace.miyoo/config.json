@@ -1,0 +1,6 @@
+{
+  "label": "Cyberspace.miyoo",
+  "icon": "/mnt/SDCARD/App/Cyberspace.miyoo/icon.png",
+  "launch": "launch.sh",
+  "description": "cyberspace.online terminal"
+}
